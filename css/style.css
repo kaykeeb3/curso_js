@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #020200;
+  background-color: #000;
   width: 100vw;
   height: 100vh;
 }
@@ -105,7 +105,11 @@ li {
  display: flex;
  align-items: center;
  justify-content: center;
+}
 
+.about > h4 {
+  color: #FAFAFA;
+  font-weight: 400;
 }
 
 .infor {
