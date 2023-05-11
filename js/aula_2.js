@@ -1,7 +1,7 @@
 /*   Comandos básicos   */
-
+//; não é mais obgigatoruo 
 // Alerta uma mensagem na tela
-//window.alert('Hello Word!'); 
+//window.alert('Hello Word!'); obrigatório 
 
 // Confirma uma mensagem na tela
 //window.confirm('Está gostando?');
