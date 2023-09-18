@@ -1,7 +1,3 @@
-
- 
-<h1 align="center">Curso de JS</h1>
-
 <h1 align="center">Curso de Javascript</h1>
 
 <br>
