@@ -1,35 +1,34 @@
-<h1 align="center">Curso de Javascript</h1>
+<h1 align="center">Curso de JavaScript</h1>
 
 <br>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - JavaScript
 - HTML 5
 - CSS 3
 - Git e Github
 
-## 💻 Projeto
+## 💻 Sobre o Projeto
 
-Este <strong>Repositório</strong> tem todos os conteúdos referente ao curso de JS, nele você irá ver diversos assuntos sobre essa linguagem do momento!<br>
+Este repositório contém todo o conteúdo relacionado ao Curso de JavaScript. Aqui, você encontrará uma variedade de tópicos relevantes para esta linguagem da programação atual!
 
 <br>
 
-## Projeto | curso 
-O intuito desse projeto foi fixar o conteúdo do curso.
+## Sobre o Projeto
+
+O objetivo deste projeto é consolidar o conteúdo do curso.
 
 <br>
 
 - [Visite o projeto](https://js-curso-projeto.vercel.app/)
 
-
-
 ## 😎 Créditos
-  <br>
+<br>
+
+Este projeto foi desenvolvido por:
 
 - [Kayke Barbosa](https://kaykedev.vercel.app/)
 - [João Alison](https://joaoalison-web.vercel.app/)
-
-
